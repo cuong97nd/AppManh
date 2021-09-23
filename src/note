@@ -1,0 +1,3 @@
+a=document.querySelectorAll("div.building-block-content div.building-block-content div.building-block-content div.building-block-content .drop-child-container input")
+
+get input cuar array
